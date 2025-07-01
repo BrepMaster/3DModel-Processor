@@ -20,6 +20,9 @@ Ideal for: Intelligent mechanical design (CAD/CAM), industrial visual inspection
 
 ![image-20250701095628547](https://github.com/BrepMaster/3DModel-Processor/raw/main/1.png)
 
+📦 Download (Windows EXE version):
+链接: https://pan.baidu.com/s/1Zlv-a_pnKLEtgZ8jZM9IzA?pwd=ab8a
+提取码: ab8a
 ## Features / 功能特性
 
 ### Dataset Processing Module / 数据集处理模块
