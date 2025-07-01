@@ -18,7 +18,7 @@
 Ideal for: Intelligent mechanical design (CAD/CAM), industrial visual inspection, 3D deep learning scenarios  
 特别适用于：机械设计智能化（CAD/CAM）、工业视觉检测、三维深度学习等场景
 
-![image-20250701095628547](https://github.com/BrepMaster/3DModel-Processor\1.png)
+![image-20250701095628547](https://github.com/BrepMaster/3DModel-Processor/raw/main/1.png)
 
 ## Features / 功能特性
 
